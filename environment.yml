@@ -1,0 +1,6 @@
+name: library_catalog_wi
+dependencies:
+  - pandas
+  - worldcatidentities
+  - matplotlib
+  - ipywidgets
