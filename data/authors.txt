@@ -1,0 +1,814 @@
+Robert Merton
+Francisco Herrera
+Keith Pavitt
+Loet Leydesdorff
+Peter Willett
+Eugene Garfield*
+Richard S J Tol
+Stevan Harnad
+Collins Harry
+Enrique Herrera-Viedma
+George Kingsley Zipf
+Alfred J. Lotka
+Mike Thelwall
+Barry Bozeman
+Derek J. de Solla Price
+John Mingers
+Daniele Archibugi
+William C. Clark
+Bart Verspagen
+Francis Narin
+Stan Metcalfe
+Wolfgang Glänzel
+Reinhilde Veugelers
+David I. Stern
+Ronald Rousseau
+Yannis Manolopoulos
+Chaomei Chen
+Anthony (Ton) F.J. van Raan
+Andy Stirling
+Ben R Martin
+Christine L. Borgman
+Anne-Wil Harzing
+Kal Jarvelin
+András Schubert
+Johan Schot
+John P. Walsh
+Peter Ingwersen
+Henk F. Moed
+Alan Porter
+Blaise Cronin
+Henry Small
+Tibor Braun
+Carl T. Bergstrom
+Benno Torgler
+Jerome Vanclay
+Koen Frenken
+Paul Meara
+Vasily V. Nalimov
+David Guston
+Òscar Miró
+Lutz Bornmann
+Belver C. Griffith
+Howard D. White
+Carlos Henrique de Brito Cruz
+Johan Bollen
+Aldo Geuna
+Katy Borner
+Nicole Haeffner
+Félix de Moya Anegón
+Koenraad Debackere
+Jiancheng Guan
+Jose Maria López Piñero
+Luke Georghiou
+Marek Kosmulski
+Michael J. Moravcsik
+Katherine W. McCain
+Judit Bar-Ilan
+Julia Lane
+HD Daniel
+Filippo Radicchi
+Martin Meyer
+Thed van Leeuwen
+Mary Frank Fox
+Ying Ding
+Tim Forsyth
+Stefan Kuhlmann
+Edward Woodhouse
+Diana Hicks
+Maurice Bernard Line
+Bart Van Looy
+J Sylvan Katz
+George Barnett
+Kevin W. Boyack
+Ian Rowlands
+Philip Shapira
+Robert J.W. Tijssen
+Mustar Philippe
+Dominique Brossard
+Olle Persson
+Jakob Edler
+Bertram C. Brookes
+Jack E. Scott
+Kam C. (Johnny) Chan
+Chris Piotrowski
+Peter Haddawy
+José M. Merigó Lindahl
+Tim Brody
+John Irvine
+Ismael Rafols
+Jacques Wainer
+José Devís-Devís
+Peter Jacso
+JingTao Yao (姚静涛)
+Emilio Delgado López-Cózar
+Gangan Prathap
+José María Sarabia
+Peter Van den Besselaar
+Narongrit Sombatsompop
+Vincent Larivière
+Caroline S. Wagner
+Clark Miller
+Wesley Shrum
+Victor Herrero-Solana
+Xia Lin
+Lokman Meho
+Javier Ruiz-Castillo
+Fiorenzo Franceschini
+Rafael Aleixandre-Benavent
+Nees Jan van Eck
+Cinzia Daraio
+José Ferreira Gomes
+Aant Elzinga
+Svein Kyvik
+Ron Johnston
+Jan Youtie
+Arthur Diamond
+Marco Pautasso
+Hendrik P. van Dalen
+Erik Arnold
+Stefan Darmoni
+Isidro F. Aguillo
+Terttu Luukkonen
+Michael E. D. Koenig
+Kenneth Rochel de Camargo Jr.
+Evaristo Jimenez-Contreras
+Erik Millstone
+Joachim Schummer
+Ludo Waltman
+Paul Wouters
+Lea Velho
+Rosa Pulgar
+Luis Sanz-Menéndez
+Jonathan Tedds
+Yuya Kajikawa
+Georgios Paltoglou
+James Wilsdon
+Magnus Gulbrandsen
+Ruediger Mutz
+Peter Groenewegen
+Yves-François Le Coadic
+Cameron Neylon
+Reiner Grundmann
+Liaquat Hossain
+Zaida Chinchilla-Rodríguez
+Andrea Scharnhorst
+B. S.Kademani
+Добров Геннадій Михайлович
+Benjamín Vargas-Quesada
+Wolfgang G. Stock
+Robert P. Light
+Henri Dou
+Bart Thijs
+Merle Jacob
+Miguel Ángel Quintanilla Fisac
+Daniel Torres-Salinas
+Vicente Pablo Guerrero Bote
+Aurora A.C. Teixeira
+Alexander Pudovkin
+Anthony J. Olejniczak
+Lennart Björneborn
+Eric Archambault
+Alan Pritchard
+Dora Marinova
+Giovanni Abramo
+Daniele Fanelli
+Massimo Franceschet
+Antonio Gutierrez Gracia
+Ciriaco Andrea D'Angelo
+Miguel A. García-Pérez
+Serhiy Shtovba
+Richard Van Noorden
+Jason Priem
+Mario Coccia
+Yuen-Hsien Tseng
+Samuel C Bradford
+Monica Gaughan
+Benedetto Lepori
+Cassidy R. Sugimoto
+Gaj Vidmar
+Matthias Weber
+Yaşar Tonta
+David F. J. Campbell
+Alan Pilkington
+José Luis Ortega
+Suzana Mueller
+Paola Criscuolo
+Antonio G. Lopez-Herrera
+Vangelis G. Alexiou
+Rodrigo Costas
+Heting Chu
+Rigas Arvanitis
+Birger Larsen
+Jan Vlachý
+Rafael Ruiz-Perez
+Kayvan Kousha
+Elias Sanz-Casado
+Elena Corera-Álvarez
+G Steven McMillan
+Werner Marx
+Guido Van Hooydonk
+Iina Hellsten
+Abdulhakim Jamjoom
+Jevin D. West
+Ping Zhou
+Ulf Sandström
+Ricardo Arencibia Jorge
+Dean Giustini
+Andreas Thor
+Maite barrios
+András Telcs
+RR Braam
+Domenico A. Maisano
+Emanuela Reale
+Xianwen Wang（王贤文）
+Mikael Laakso
+Sybille Hinze
+Sven Hemlin
+Erjia Yan
+Georgina Guilera
+Ernesto Spinak
+AN Zanaib
+Luc Marie Quoniam
+Antonio Fernández-Cano
+Philipp Mayr
+Gaston Heimeriks
+Rasim M. Aliguliyev
+Rickard Danell
+A.N. Zainab
+Dangzhi Zhao
+I.K. Ravichandra Rao
+James Bird
+Gary F. Templeton
+Stefanie Haustein
+Elea Giménez-Toledo
+Laura Cruz-Castro
+Nader Ale Ebrahim
+Kathleen F. Bauer
+Joaquín M. Azagra-Caro
+Radhamany Sooryamoorthy
+Juan Antonio Araujo Ruiz
+K. Brad Wray
+Rousseau Sandra
+Antonis Sidiropoulos
+Stephen Bensman
+Alain Lelu
+Farideh Osareh
+Jean-francois Gehanno
+Michal Jasienski
+Edwin Henneken
+Arthur Sale
+Marie E McVeigh
+Ramiz M. Aliguliyev
+Ángel Borrego
+Andreas Strotmann
+Jean-Charles Lamirel
+Raul-Isaac Mendez-Vasquez
+Jesper W. Schneider
+John S. Liu
+Silvia Salini
+Vladimir M.Moskovkin
+Luca Mastrogiacomo
+Rafael Bailón Moreno
+Joachim Schopfel
+Jeppe Nicolaisen
+Elizabeth Gadd
+Ozcan Konur
+Alireza Abbasi
+Melissa Cragin
+Christian Schloegl
+Xuemei Li
+Alesia Zuccala
+Álvaro Cabezas-Clavijo
+Rogério Mugnaini
+David 'the' Stuart
+John Rigby
+Umut Al
+Domingo Docampo
+Anil Kumar Dhiman
+Gaby Haddow
+Chrisovaladis malesios
+Staša Milojević
+Claire Donovan
+Önder Nomaler
+Juan Gorraiz
+Jadranka Stojanovski
+Pamela Sieving
+Edson Ronaldo Guarido Filho
+OB Onyancha
+Tove Faber Frandsen
+layla Michán
+Jackie Wolstenholme
+Katharine E. Barker
+Janghyeok Yoon
+Antonio Pulgarin
+Fredrik Åström
+Kim Holmberg
+Gamal Atallah
+R Jeyshankar
+Sandra Miguel
+Hervé Rostaing
+Daniela De Filippo
+Kim-Leng Goh
+Clara Calero
+Nicolás Robinson-García
+Guillaume Cabanac
+Rodriguez Rosa
+Agnieszka Olechnicka
+Boutin Eric
+Danilo Blank
+Liney Manjarres-Henríquez
+Anup Kumar Das
+Rebecca F. Rosen
+Pablo Dorta-González
+J. Carlos García-Zorita
+Jae Yun Lee
+Alexander Maz-Machado
+KK Mueen Ahmed
+Jose G. Moreno-Torres
+Jesús P. Mena-Chalco
+Anil Kumar
+Jose Navarrete
+Nick Tomaiuolo
+Manuel Jesus Cobo Martin
+Gohar Feroz Khan
+Carlos Olmeda-Gomez
+Iain Craig
+Michael Eckmann
+Shigeaki Yamazaki
+Antonio Perianes-Rodríguez
+Nicole L Klenk
+Aparna Basu
+Guillermo Armando Ronda Pupo
+Diego Raphael Amancio
+Edgar Schiebel
+László Á. Kóczy
+Chris Armbruster
+Alfred S. Sife
+Ulf Kronman
+Andreas Hoepner
+Michael Taylor
+Stelios Katranidis
+Valentina Markusova
+Li Tang 唐莉
+Leandro Innocentini Lopes de Faria
+Raf Guns
+Fereshteh Didegah
+Chaoqun Ni
+Ruben Urbizagastegui Alvarado
+Vladimir Pislyakov
+Berenika M. Webster
+Maja Jokić
+B.T. Sampath Kumar
+Muhammad Imran
+Hedman Juha
+Elizabeth Aversa
+Gemma Derrick
+Máxima Bolaños-Pizarro
+Diana Lucio-Arias
+Sebastian K Boell (Böll)
+Swapan kumar Patra
+Vivek Kumar Singh
+Cui Yuhong（崔宇红）
+L John Old
+Matthew L. Wallace
+Maria Victoria Guzman Sánchez
+Pero Šipka
+Robert D. Shelton
+Carlos Benito Amat
+Xiaozhong Liu
+Enrique Orduna-Malea
+Tindaro Cicero
+Tim Engels
+Youngim Jung
+Balabhim Biradar
+Zohreh Zahedi
+Heidi Prozesky
+Björn Hammarfelt
+Marcia Regina da Silva
+Ernesto Fernandez Polcuch
+Farzaneh Aminpour
+Dean Hendrix
+Marek Gagolewski
+G. Galyani
+Marianne Gauffriau
+Gonzalo Ordonez-Matamoros
+Bhaskar Mukherjee
+Philipp Schaer
+SL Sangam
+Nelius Boshoff
+Kannappanavar B U
+Afsaneh Hazeri
+Elizabeth S Vieira
+Guo Freeman (Zhang)
+Rosario Rogel
+Jens Terliesner
+Sjoerd Hardeman
+Christian Gumpenberger
+Francisco Collazo
+Judith Kamalski
+Prof Maheswarappa B S
+Betsy Van der Veer Martens
+Wouter Gerritsma
+Jordi Ardanuy
+Mohammad-Hossein Biglu
+Zhigang Hu（胡志刚）
+Kun Lu
+Parthasarathi Mukhopadhyay
+Maria Cassella
+Subbiah Gunasekaran
+Ki-Seok Kwon
+Ali Gazni
+Stephan Doerfel
+Hyunseok Park
+Henk C.J. Compier
+Livia Vasas
+Marzena Marcinek
+Jiang WU
+Satish Munnolli
+Fabio Castro Gouveia
+Anna Berhidi
+Nele Dexters
+Beth Thomsett-Scott
+Władysław Marek Kolasa
+Sven E. Hug
+Kelly Blessinger
+Jose Maria Gomez-Sancho
+Gouya Harirchi
+Teresa Jones
+Esteban Romero-Frías
+Ehsan Mohammadi
+Андрей Печников
+David Hubbard
+Saeid Asadi
+S Sendhilkumar
+Денис Соловяненко
+Shenmeng Xu
+Angela Zoss
+Carole Probst
+Subir K. Sen
+Paulo A. Meyer M. Nascimento
+Dalibor Fiala
+Teresa S. Welsh
+Jose Antonio Torres-Reyes
+Marco Seeber
+Isabel Iribarren-Maestro
+Dimitris Karaiskos
+Clare Thornley
+Amit Kumar Bandyopadhyay
+Wen-Yau Cathy Lin 林雯瑤
+Simon Linacre
+Francesco Rosati
+Cristian Colliander
+Chad Anderson
+Xiang Liu
+Scott B. Weingart
+Nor Azman Ismail
+Fabricio Marques
+Jan Fransen
+Catharina Rehn
+Diego Chavarro
+R. Balasubramani
+Elisha R.T. Chiware
+Borja González-Albo Manglano
+Jeroen Bosman
+Amalia Mas Bleda
+Kamal Lochan Jena
+Lisa Johnston
+Hajar Sotudeh
+Ramalingam Jeyshankar
+Øivind Strand
+Eustache Mêgnigbêto
+Ifeanyi J. Ezema
+Kiran Savanur
+Orlando Gregorio-Chaviano
+Reetta Muhonen
+Sudhier K G Pillai
+Qi Yu
+M. Surulinathi
+Daniel Wadskog
+Penghui LYU
+Stacy Konkiel
+Vanessa Nielsen Muñoz
+Fayaz Ahmad Loan
+Marc Bertin
+Yaniris Rodríguez-Sánchez
+Sozon Papavlasopoulos
+vaishali khaparde
+Ashraf Uddin
+Cory Tucker
+Rita Pinheiro-Machado
+Marie Tomlinson Ascher
+Nadine Rons
+Sharada B A
+Dominique Fournier
+Jorge Mañana Rodríguez
+Samir Kumar Jalal
+Fatima Pastor-Ruiz
+Bidyarthi Dutta
+Aaron A. Sorensen
+Llorenç Arguimbau
+Rosane Taruhn
+Rahman Marefat
+Aneta Drabek
+Eric Ackermann
+Valeria Molteni
+Hafez Mohammadhassanzadeh
+Abdolrasoul Jowkar
+Alfonso Ibáñez
+Matthew R. Marsteller
+Emma Georgina Santillán Rivero
+Andre Nault
+Mery P. Zamudio Igami
+Rachel Borchardt
+Gali Halevi
+Frederik Verleysen
+Nobuyuki Shirakawa
+Cuiying Mu
+Juan Manuel Ayllón Millán
+Timothy D. Bowman
+Olga Moskaleva
+Maxim Kotsemir
+Yusnelkis Milanes-Guisado
+Alberto Martín-Martín
+Rahim Alijani
+Mariano A. Maura
+Noelia Jiménez-Fanjul
+M Vijayakumar
+R. Karpagam
+N. Amsaveni
+Mahmood Khosrowjerdei
+Vala Ali Rohani
+Fintan Bracken
+Sibele Fausto
+Stephanie Steinhardt
+Farshid Danesh
+Clifford Tatum
+Andrea Twiss-Brooks
+Midrar Ullah
+SA Sanni
+Bernd Markscheffel
+Tamy Chambers
+Carlos Vílchez-Román
+Saeed Ul Hassan
+Marijan Šember
+maryam shekofteh
+Muzammil Tahira
+Michael Ochsner
+Wade M. Lee
+Antonio Eleazar Serrano López
+Tancoigne Elise
+S. Srinivasaragavan
+Jose Morillo-Velarde Serrano
+sagnik ray choudhury
+Hari Prasad Sharma
+Tetiana Symonenko
+Amir Reza Asnafi
+K M Krishna
+Amitava Nandi
+Yelina Piedra
+Mohammad K. saberi
+G. Rathinasabapathy
+Jie Li（李杰）
+Jiban K. Pal
+David T Palmer
+Rosa Scoble
+zhihui zhang
+Faramarz Soheili
+Diego Marcos Cartagena
+Rabishankar Giri
+Jongwook Lee
+Pamela Bishop
+Christopher Nkiko
+Jayshree Mamtora
+Dmytro Filchenko
+Chris Belter
+B. Elango
+Abhijnan Chakraborty
+Ashraf Sharif
+Andrés Pandiella Dominique
+Sada Bihari Sahu
+M Manjunath
+Nobuko Miyairi
+Mohammad Reza ghane
+Mirza Muhammad Naseer
+Rosy Jan
+Rabindra K. Maharana
+Chatree Wongkaew
+Mallikarjun Dora
+Paola Galimberti
+Elena Kabakova (Елена Кабакова)
+Haydar Yalcin
+Ashley Rose Kelly
+Consol Garcia
+Jens Peter Andersen
+Christopher Erdmann
+Jan Maluleka
+Raja S
+Philippe Mongeon
+Alvaro Roldán López
+Alexis Moreno-Pulido
+Ali Saad Alali
+Leslie Adriaanse
+Wojciech Fenrich
+Gabriel Peterson
+Chandran Velmurugan
+Hashem Farahat Alhendawy
+Kamal Badar
+Jill Lagerstrom
+A I M Jakaria Rahman
+Karen Kohn
+Ephrance Abu Ujum
+Aminath Riyaz
+Liang Chen
+V.J. Kadam
+Drahomira Herrmannova
+Held Barbosa de Souza
+Amanda Regolini
+António Correia
+Akhandanand Shukla
+Ibis A. Lozano-Díaz
+Krešimir Pavlina
+Yongfeng Zhong
+María Ayala-Gascón
+Sergio Carbonell de la Fé
+Jenny Delasalle
+Filistéa Naudé
+Ramesh Pandita
+Maryam Keshvari
+AK Sahu
+Patrick Kenekayoro
+RD Sathish Kumar
+Mikael K. Elbaek
+Maria-Josefa Peralta-Gonzalez
+Charles Cardinal
+Jonathan Potter
+Marian Ramos Eclevia
+Soyoung Yu
+Weiai Wayne Xu
+Gusta Drenthe
+Murari Tapaswi
+Dejan Pajić
+Innocent Awasom
+Segun-Adeniran, Chidi Deborah. (Isiakpona)
+Antonio J. Gómez-Núñez
+siddaiah padmamma
+Koteppa Banateppanvar
+Franjo Pehar
+Paul Jarvey
+Sandra Raiher
+Adrián A. Díaz-Faes
+Marc Loman
+Shehbaz Naqvi
+Ashkan Ebadi
+Bonnie J. M. Swoger
+Paul Trevorrow
+P. Hangsing
+Ziyun Xu
+M.Jayaprakash
+ketki Bhatia
+Weishu Liu
+Sadia Nawaz
+Susan Mathew K
+Pat Loria
+Morteza Hemmat
+Prabir Kumar Das
+Nishtha Anilkumar
+Josmel Pacheco Mendoza
+fahime abbasi
+Fernando Sánchez Pita
+Hazman Aziz
+Patricia Duffel
+Iara Vidal Pereira de Souza
+S Aswathy
+Kai-Yu Tang
+Radek Malinský
+Maricela Gómez-Vargas
+Arthur N. Olsen
+Paul Wells
+Simona Turbanti
+Yvonne Socha
+Susana Sánchez -Gil
+Tayebeh Shahmirzadi
+Silvana Roque de Oliveira
+Roghayeh ghorbani bousari
+Yoscelina Iraida Hernández García
+Milos Jovanovic
+Byunghoon Kim
+Kelli R. Barr
+Saravanan P. Pillai
+Gustaf Nelhans
+Ewa Rozkosz
+Jonathan Bull
+Sady Fuentes
+leila dehghani
+Fatih Ömrüuzun
+Gireesh A. Ganjihal
+Liliia A. Luparenko
+Terje Tüür-Fröhlich
+Mamoona Kousar
+Ramesh Chander
+Joel Alhuay Quispe
+Gerardo Figueredo-Medina
+Peter Sjögårde
+Tuija Sonkkila
+Farah Purwaningrum
+Roya Pournaghi
+K.P.S. Sengar
+Satya Ranjan Sahu
+Oğuzhan Alaşehir
+M Leeladharan
+Mohd Ikhwan Ismail
+Sachinkumar Balasaheb Patil
+P Ashok Kumar
+Hemanta Kumar Das
+N.Tamilselvan
+S N Kulkarni
+P. Ramkumar
+Hazila Timan
+Ali Mardaninezhad
+Razieh Zahedi
+John Jeyasekar Jesubright
+Rasoul Zavaraqi
+Shantashree Sengupta
+Martin Souček
+Jonas Gilbert
+reza khodadust
+Nicolas Barts
+Sheikh Mohammed Shahabuddin
+Lars Kullman
+Saravanan G.
+Bonaria Biancu
+Jayendra Kumar Singh
+S. Kishore Kumar
+Sumit Kumar Banshal
+Anikó Dudás
+Fatima Baji
+Ismael Mostafavi
+Khushboo Singhal
+Ewa Busse-Turczyńska
+Müge Akbulut
+J.B. MacGregor
+Y.L. Somashekara
+M Mandhirasalam
+Sunette Steynberg
+Simon Aristeguieta-Trillos
+Houcemeddine Turki
+Rajesh Kumar Lohiya
+Adèle Paul-Hus
+Basudev Mohanty
+Irina Trofimchuk (Ирина Трофимчук)
+Joydip Chandra
+Judith Gulpers
+Subhodip Bid
+Shivaranjini Mogali
+Salmah Abdullah
+sanjeevi krishnamurthy
+Miguel R. Guevara
+T. Pratheepan
+Aref Riahi
+Subramanian Navaneethakrishnan
+Rahila Sh. Hasanova
+Hui Xuan Tan
+Aboozar Ramezani
+Tawfeeq Nazir
+Nick Dimmock
+Siti Nisrin Mohd Anis
+Husriati Hussain
+Ciaran Quinn
+Diane Clark
+P. Clara Jeyaseeli
+P. Baskaran
+Fawaz Abdullah Alhamdi
+A.Vellaichamy
+Gelvazio Sakala
+Nicholas Victor Olijnyk
+Jomy Jose
+Jos Franssen
+E.S. Kavitha
+David Sánchez-Cruxeiras
+Abdul Shahid
+Abdalsamad Keramatfar
+Patricia Lorenzo Bartolomé
+Sampath Bandara
+Angamuthu.m
+AK Anjana
+Magdalena Bemke-Świtilnik
+Isabel Basson
+Elvira Curiel-Marín
+Ashraf Maleki
+Rouhallah Khademi
+Saeed Roshani
+Alberto Ramos-Alonso
+Mohd Kamal Mohd Napiah
+Ismail Etman
+Luca Lanzillo
+Susana Lopes
+Baban Chavan
+Anna Łach
+Ahmad Nadzri Mohamad
+M. Manjula
+farahnaz vatankhah
+Vaishali Khaparde
+Bernarda Korez
+Jeyashree S
