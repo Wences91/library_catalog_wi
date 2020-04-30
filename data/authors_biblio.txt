@@ -1,0 +1,268 @@
+Author	Bibliometrics	Figure	Status	University
+Caroline S. Wagner	Yes	Professor	Active	Ohio State University
+Blaise Cronin	Yes	Professor	Emeritus	Indiana University Bloomington
+Derek J. de Solla Price	Yes	Professor	Deceased	---
+Chaomei Chen	Yes	Researcher	Active	Drexel University
+Jose Maria López Piñero	Yes	Researcher	Deceased	CSIC
+Katy Borner	Yes	Professor	Active	Indiana University Bloomington
+Paul Wouters	Yes	Researcher	Active	Leiden University
+Eugene Garfield*	Yes	Researcher	Deceased	Institute for Scientific Information
+Peter Jacso	Yes	Professor	Active	University of Hawaii
+Nick Tomaiuolo	Yes	Librarian	Active	Connecticut State University's
+Ben R Martin	Yes	Professor	Active	Prof Ben Martin
+Peter Van den Besselaar	Yes	Professor	Active	Vrije Universiteit Amsterdam
+Michael E. D. Koenig	Yes	Professor	Active	Long Island University
+Tibor Braun	Yes	Professor	Retired	Loránd Eötvös University
+Alan Pritchard	Yes	Researcher	Deceased	----
+Vasily V. Nalimov	Yes	Researcher	Deceased	----
+Lokman Meho	Yes	Librarian	Active	American University of Beirut
+Henk F. Moed	Yes	Researcher	Emeritus	Leiden University
+Cassidy R. Sugimoto	Yes	Professor	Active	Indiana University Bloomington
+Andrea Scharnhorst	Yes	Professor	Active	The DANS KOS Observatory (KOSo)
+Michael J. Moravcsik	Yes	Professor	Deceased	University of California, University of Oregon
+Ian Rowlands	Yes	Professor	Active	University of Waterloo
+Fiorenzo Franceschini	Yes	Professor	Active	Politecnico di Torino 
+John Irvine	Yes	Other professionals	Active	Latchi Watersports Centre
+Peter Ingwersen	Yes	Professor	Emeritus	University of Copenhagen
+Radhamany Sooryamoorthy	Yes	Professor	Active	University of KwaZulu-Natal
+Howard D. White	Yes	Professor	Emeritus	Drexel University
+Bart Van Looy	Yes	Professor	Active	KU Leuven
+Koenraad Debackere	Yes	Professor	Active	KU Leuven
+Kim Holmberg	Yes	Professor	Active	University of Turku
+Ying Ding	Yes	Professor	Active	 Indiana University Bloomington
+Ronald Rousseau	Yes	Professor	Active	KU Leuven
+Aparna Basu	Yes	Researcher	Emeritus	NISTADS
+HD Daniel	Yes	Professor	Active	ETH Zurich
+Antonio Gutierrez Gracia	Yes	Researcher	Retired	ingenio csic-upv
+Stefanie Haustein	Yes	Professor	Active	University of Ottawa
+Yves-François Le Coadic	Yes	Professor	Emeritus	Cnam - Paris
+Loet Leydesdorff	Yes	Professor	Emeritus	University of Amsterdam
+Javier Ruiz-Castillo	Yes	Professor	Active	Universidad Carlos III
+Mike Thelwall	Yes	Professor	Active	University of Wolverhampton
+Sven Hemlin	Yes	Professor	Emeritus	University of Gothenburg
+José Luis Ortega	Yes	Researcher	Active	CSIC
+Wolfgang Glänzel	Yes	Professor	Active	KU Leuven
+Svein Kyvik	Yes	Researcher	Active	Nordic Institute for Studies in Innovation
+Mustar Philippe	Yes	Professor	Active	Mines Paris Tech
+Bertram C. Brookes	Yes	Professor	Deceased	University College London
+Luc Marie Quoniam	Yes	Researcher	Active	Vlab4u Collaboratory
+Bhaskar Mukherjee	Yes	Professor	Active	Banaras Hindu University
+Félix de Moya Anegón	Yes	Researcher	Active	Independiente
+Rickard Danell	Yes	Professor	Active	Umeå universitet
+Samuel C Bradford	Yes	Researcher	Deceased	Science Museum London
+Birger Larsen	Yes	Professor	Active	Aalborg University Copenhagen
+Cinzia Daraio	Yes	Professor	Active	University of Rome "La Sapienza"
+Benjamín Vargas-Quesada	Yes	Professor	Active	Universidad de Granada
+Rigas Arvanitis	Yes	Researcher	Active	Institut de recherche pour le développement
+Jan Youtie	Yes	Researcher	Active	Georgia Institute of Technology
+Rachel Borchardt	Yes	Librarian	Active	American Universiy Washington
+Anup Kumar Das	Yes	Librarian	Active	Jawaharlal Nehru University
+Heting Chu	Yes	Professor	Active	Long Island University
+Philipp Mayr	Yes	Researcher	Active	GESIS - Leibniz Institute for the Social Sciences
+Matthias Weber	Yes	Researcher	Active	AIT Austrian Institute of Technology
+Umut Al	Yes	Professor	Active	Hacettepe Universit
+Gohar Feroz Khan	Yes	Professor	Active	University of Waikato
+Enrique Orduna-Malea	Yes	Professor	Active	Universita de Valencia
+Elea Giménez-Toledo	Yes	Researcher	Active	CSIC
+Chris Belter	Yes	Librarian	Active	National Institue of Health
+Anthony (Ton) F.J. van Raan	Yes	Researcher	Retired	University of Leiden
+Magnus Gulbrandsen	Yes	Researcher	Active	ingenio csic-upv
+Francis Narin	Yes	Researcher	Retired	CHI Research
+Vincent Larivière	Yes	Researcher	Active	University of Leiden
+Georgios Paltoglou	Yes	Researcher	Active	European Commission
+Fredrik Åström	Yes	Professor	Active	Lund University
+John Rigby	Yes	Researcher	Active	Manchester Institute of Innovation Research
+Henry Small	Yes	Researcher	Retired	Institute for Scientific Information
+Belver C. Griffith	Yes	Professor	Deceased	Drexel University
+Sybille Hinze	Yes	Professor	Active	DZHW
+András Schubert	Yes	Professor	Retired	Hungarian Academy of Sciences,
+Lea Velho	Yes	Professor	Active	  Universidade Estadual de Campinas,
+I.K. Ravichandra Rao	Yes	Researcher	Active	 Indian Statistical Institute
+Ulf Sandström	Yes	Researcher	Active	KTH Royal Institute Technology
+Isidro F. Aguillo	Yes	Researcher	Active	CSIC
+Robert D. Shelton	Yes	Researcher	Active	 WTEC
+Carlos Olmeda-Gomez	Yes	Professor	Active	Universidad Carlos III
+Lutz Bornmann	Yes	Researcher	Active	Max-Planck-Society
+Emilio Delgado López-Cózar	Yes	Professor	Active	Universidad de Granada
+Raf Guns	Yes	Professor	Active	University of Antwerp
+Dangzhi Zhao	Yes	Professor	Active	University of Alberta
+Andrea Twiss-Brooks	Yes	Librarian	Active	University of Chicago
+Andreas Strotmann	Yes	Researcher	Active	ScienceXplore
+Eric Archambault	Yes	Researcher	Active	Science-Metrix and 1science
+Kim-Leng Goh	Yes	Professor	Active	University of Malaya
+Władysław Marek Kolasa	Yes	Professor	Active	Pedagogical University of Cracow
+Emanuela Reale	Yes	Researcher	Active	IRCrES-CNR
+Zaida Chinchilla-Rodríguez	Yes	Researcher	Active	CSIC
+Stefan Darmoni	Yes	Professor	Active	Rouen University Hospital
+Robert J.W. Tijssen	Yes	Professor	Active	Leiden University
+Rafael Ruiz-Perez	Yes	Professor	Active	University of Granada
+J Sylvan Katz	Yes	Researcher	Active	Ergonic Resources Ltd., Saskatoon, SK., Canada
+Filistéa Naudé	Yes	Librarian	Active	University of South Africa
+RR Braam	Yes	Researcher	Active	----
+Ricardo Arencibia Jorge	Yes	Other professionals	Active	Empresa de Tecnologías de la Información
+Diana Lucio-Arias	Yes	Professor	Active	Pontifical Xavierian University
+Olle Persson	Yes	Professor	Emeritus	Umeå university
+Maja Jokić	Yes	Researcher	Active	Institute for Social Research in Zagreb
+Christian Schloegl	Yes	Professor	Active	University of Graz
+Johan Bollen	Yes	Professor	Active	Indiana University
+Sandra Miguel	Yes	Professor	Active	National University of La Plata
+Martin Meyer	Yes	Professor	Active	University of Aberdeen
+Yaniris Rodríguez-Sánchez	Yes	Researcher	Active	CINESTAV
+Terttu Luukkonen	Yes	Professor	Emeritus	University manchester
+Elias Sanz-Casado	Yes	Professor	Active	University Carlos III of Madrid
+Rosario Rogel	Yes	Professor	Active	Universidad Autónoma del Estado de México
+Ruben Urbizagastegui Alvarado	Yes	Librarian	Active	University of California at Riverside
+Guo Freeman (Zhang)	No	Professor	Active	Clemson University
+Elena Corera-Álvarez	Yes	Researcher	Active	CSIC
+Mario Coccia	Yes	Researcher	Active	Italian National Research Council
+Antonio Perianes-Rodríguez	Yes	Professor	Active	University Carlos III of Madrid
+Ruediger Mutz	Yes	Researcher	Active	ETH Zurich
+Gonzalo Ordonez-Matamoros	Yes	Professor	Active	University of Twente
+Maria Victoria Guzman Sánchez	Yes	Researcher	Active	Finlay Institute of Vaccines
+Victor Herrero-Solana	Yes	Professor	Active	University of Granada
+Sergio Carbonell de la Fé	Yes	Librarian	Active	----
+Daniel Torres-Salinas	Yes	Professor	Active	University of Granada
+Maite barrios	Yes	Professor	Active	University of Barcelona
+Antonio Fernández-Cano	Yes	Professor	Active	University of Granada
+Vicente Pablo Guerrero Bote	Yes	Professor	Active	University of Extremadura
+Edgar Schiebel	Yes	Researcher	Active	Austrian Institute of Technology
+Xiaozhong Liu	Yes	Professor	Active	Indiana University Bloomington
+Guido Van Hooydonk	Yes	Professor	Emeritus	Ghent University
+Álvaro Cabezas-Clavijo	Yes	Researcher	Active	EC3metrics
+Antonio Pulgarin	Yes	Professor	Retired	University of Extremadura
+Evaristo Jimenez-Contreras	Yes	Professor	Active	University of Granada
+Maria Cassella	Yes	Librarian	Active	University of Turin
+Mariano A. Maura	Yes	Professor	Retired	University of Puerto Rico
+Suzana Mueller	Yes	Professor	Emeritus	University of Brasilia
+John Jeyasekar Jesubright	Yes	Librarian	Active	Forensic Sciences Department, Chennai
+Daniela De Filippo	Yes	Professor	Active	University Carlos III de Madrid
+Rafael Aleixandre-Benavent	Yes	Researcher	Active	CSIC
+Jill Lagerstrom	Yes	Librarian	Active	Barnard College
+Thed van Leeuwen	Yes	Researcher	Active	Centre for Science and Technology Studies (CWTS)
+Alberto Martín-Martín	Yes	Professor	Active	University of Granada
+Rodrigo Costas	Yes	Researcher	Active	Centre for Science and Technology Studies (CWTS)
+Juan Gorraiz	Yes	Librarian	Active	University of Vienna
+Massimo Franceschet	Yes	Professor	Active	University of Udine
+Bidyarthi Dutta	Yes	Professor	Active	Vidyasagar University
+Hervé Rostaing	Yes	Professor	Active	Aix-Marseille University
+Katherine W. McCain	Yes	Professor	Emeritus	Drexel University
+Ludo Waltman	Yes	Researcher	Active	Centre for Science and Technology Studies (CWTS)
+Kevin W. Boyack	Yes	Researcher	Active	SciTech Strategies
+Franjo Pehar	Yes	Professor	Active	University of Zadar
+Carlos Benito Amat	Yes	Researcher	Active	CSIC and INGENIO
+Mohammad-Hossein Biglu	Yes	Professor	Active	Tabriz University of Medical Sciences
+Wouter Gerritsma	Yes	Librarian	Deceased	Vrije Universiteit Amsterdam
+Nees Jan van Eck	Yes	Researcher	Active	Centre for Science and Technology Studies (CWTS)
+Ernesto Spinak	Yes	Librarian	Active	independent consultant
+OB Onyancha	Yes	Professor	Active	University of South Africa
+Ciriaco Andrea D'Angelo	Yes	Professor	Active	University of Rome Tor Vergata
+Giovanni Abramo	Yes	Researcher	Active	Italian National Research Council
+Jesper W. Schneider	Yes	Professor	Active	Aarhus University
+Aneta Drabek	Yes	Librarian	Active	University of Silesia in Katowice
+Björn Hammarfelt	Yes	Professor	Active	University of Borås
+Sebastian K Boell (Böll)	Yes	Professor	Active	University of Sydney
+Carole Probst	Yes	Professor	Active	Zurich University of Applied Sciences (ZHAW)
+Amit Kumar Bandyopadhyay	Yes	Professor	Retired	University of Burdwan
+Haydar Yalcin	Yes	Professor	Active	Izmir Katip Celebi Universitesi
+Lennart Björneborn	Yes	Professor	Active	University of Copenhagen
+Staša Milojević	Yes	Professor	Active	Indiana University, Bloomington
+Marcia Regina da Silva	Yes	Professor	Active	Universidade de São Paulo
+Alesia Zuccala	Yes	Professor	Active	University of Copenhagen
+Bart Thijs	Yes	Professor	Active	KU Leuven
+Christian Gumpenberger	Yes	Librarian	Active	University of Vienna
+Adèle Paul-Hus	Yes	Professor	Active	Université de Montréal
+Chaoqun Ni	Yes	Professor	Active	University of Iowa
+Erjia Yan	Yes	Professor	Active	Drexel University
+Jan Maluleka	Yes	Professor	Active	University of South Africa
+Jeppe Nicolaisen	Yes	Professor	Active	University of Copenhagen
+Dalibor Fiala	Yes	Professor	Active	University of West Bohemia
+Eustache Mêgnigbêto	Yes	Librarian	Active	University of Antwerp
+G. Rathinasabapathy	Yes	Librarian	Active	Tamil Nadu Veterinary and Animal Sciences University
+Hedman Juha	Yes	Researcher	Active	University of Turku
+Judit Bar-Ilan	Yes	Professor	Deceased	Bar-Ilan University
+Tove Faber Frandsen	Yes	Professor	Active	University of Southern Denmark
+Francisco Collazo	Yes	Researcher	Active	Centro de InvestigaciÓN de Estudios Avanzados
+Ifeanyi J. Ezema	Yes	Professor	Active	University of Nigeria
+Ismael Rafols	Yes	Researcher	Active	University of Leiden
+Jevin D. West	Yes	Professor	Active	University of Washington
+Werner Marx	Yes	Researcher	Active	Max Planck Institute for Solid State Research,
+Ehsan Mohammadi	Yes	Professor	Active	University of South Carolina
+Jose Morillo-Velarde Serrano	Yes	Librarian	Active	Universidad Carlos III
+Kamal Lochan Jena	Yes	Librarian	Active	College of Engineering & Technology, Bhubaneswar
+Nader Ale Ebrahim	Yes	Professor	Active	University of Malaya
+Stacy Konkiel	Yes	Other professionals	Active	Digital Science
+Daniel Wadskog	Yes	Librarian	Active	Uppsala University, Sweden
+Gali Halevi	Yes	Librarian	Active	Mount Sinai - New York
+Jadranka Stojanovski	Yes	Librarian	Active	Rudjer Boskovic Institute Library
+Pero Šipka	Yes	Researcher	Active	CEON/CEES
+Rogério Mugnaini	Yes	Professor	Active	University of São Paulo
+Sada Bihari Sahu	Yes	Researcher	Active	Small Industries Development Bank
+Tim Engels	Yes	Professor	Active	Universiteit Antwerpen
+Clara Calero	Yes	Researcher	Active	University of Leiden
+J. Carlos García-Zorita	Yes	Professor	Active	Universidad Carlos III
+Jose Antonio Torres-Reyes	Yes	Professor	Active	Universidad Autónoma de Nuevo León
+Jose Navarrete	Yes	Librarian	Active	Universidad de Jaén
+Muzammil Tahira	Yes	Librarian	Active	University of Education, Lahore-Pakistan
+Máxima Bolaños-Pizarro	Yes	Professor	Active	Universitat de València
+Subir K. Sen	Yes	Professor	Active	University of Calcutta
+Valentina Markusova	Yes	Researcher	Active	Russian Institute for S&T Information (VINITI)
+Zohreh Zahedi	Yes	Researcher	Active	University of Leiden
+Claire Donovan	Yes	Professor	Active	Brunel University London
+Frederik Verleysen	Yes	Professor	Active	University of Antwerp
+G Steven McMillan	Yes	Professor	Active	Penn State Abington
+Gabriel Peterson	Yes	Professor	Active	North Carolina Central University
+Jens Peter Andersen	Yes	Professor	Active	Aarhus University
+Marianne Gauffriau	Yes	Librarian	Active	Copenhagen University Library
+Philippe Mongeon	Yes	Researcher	Active	University of Leiden
+Vaishali Khaparde	Yes	Professor	Active	Dr Babasaheb Ambedkar Marathwada University
+Berenika M. Webster	Yes	Librarian	Active	University of Pittsburgh
+Cristian Colliander	Yes	Professor	Active	Umeå University
+Joaquín M. Azagra-Caro	Yes	Researcher	Active	ingenio CSIC-UPV
+Kayvan Kousha	Yes	Professor	Active	University of Wolverhampton
+Magdalena Bemke-Świtilnik	Yes	Professor	Active	Główny Instytut Górnictwa
+Matthew L. Wallace	Yes	Researcher	Active	International Development Research Centre
+Nicolás Robinson-García	Yes	Researcher	Active	Delf University
+Pablo Dorta-González	Yes	Professor	Active	Universidad de las Palmas de Gran Canaria
+Rosa Scoble	Yes	Professor	Active	Brunel University London
+Shigeaki Yamazaki	Yes	Professor	Active	Aichi Shukutoku University
+Adrián A. Díaz-Faes	Yes	Researcher	Active	ingenio CSIC-UPV
+B. S.Kademani	Yes	Librarian	Active	Bhabha Atomic Research Centre
+Borja González-Albo Manglano	Yes	Researcher	Active	CSIC
+Catharina Rehn	Yes	Librarian	Active	Karolinska Institutet Universitetsbiblioteket
+Chandran Velmurugan	Yes	Librarian	Active	Vivekanandha Arts & Science College for Women
+Faramarz Soheili	Yes	Researcher	Active	Payame Noor University
+Fereshteh Didegah	Yes	Professor	Active	University of British Columbia
+Hyunseok Park	Yes	Professor	Active	Hanyang University
+Leandro Innocentini Lopes de Faria	Yes	Professor	Active	Universidade Federal de São Carlos 
+Mirza Muhammad Naseer	Yes	Professor	Active	Imam Abdul Rahman Bin Faisal University
+Ping Zhou	Yes	Professor	Active	Zhejiang University
+Raul-Isaac Mendez-Vasquez	Yes	Researcher	Active	Fundació Catalana per a la Recerca i la Innovació
+Rosane Taruhn	Yes	Librarian	Active	University of Sao Paulo
+Shenmeng Xu	Yes	Professor	Active	University of North Carolina at Chapel Hill
+Swapan kumar Patra	Yes	Professor	Active	Tshwane University of Technology
+Valeria Molteni	Yes	Librarian	Active	Menlo College
+maryam shekofteh	Yes	Professor	Active	Shahid Beheshti University of Medical Sciences
+Alvaro Roldán López	Yes	Librarian	Active	Consejería de Sanidad de la Comunidad de Madrid
+B. Elango	Yes	Librarian	Active	IFET College of Engineering
+David 'the' Stuart	Yes	Professor	Active	King's College London
+Diana Hicks	Yes	Professor	Active	Georgia Institute of Technology
+Diego Marcos Cartagena	Yes	Librarian	Active	iMarina
+Emma Georgina Santillán Rivero	Yes	Librarian	Active	CINESTAV
+Ephrance Abu Ujum	Yes	Professor	Retired	University of Malaya
+Farideh Osareh	Yes	Professor	Active	University of Ahvaz
+G. Galyani	Yes	Professor	Active	Allameh Tabataba'i University
+Hajar Sotudeh	Yes	Professor	Active	Shiraz University
+John S. Liu	Yes	Professor	Active	National Taiwan University of Science and Technology
+Kamal Badar	Yes	Professor	Active	Prince Sultan University
+Leslie Adriaanse	Yes	Librarian	Active	University of South Africa
+Li Tang 唐莉	Yes	Professor	Active	Fudan University
+Liney Manjarres-Henríquez	Yes	Professor	Active	Universidad de la Costa 
+Marie E McVeigh	Yes	Librarian	Active	Clarivate Analytics
+Nele Dexters	Yes	Professor	Active	University of Antwerp
+Orlando Gregorio-Chaviano	Yes	Professor	Active	Pontifical Xavierian University
+Peter Sjögårde	Yes	Librarian	Active	Karolinska Institutet
+R Jeyshankar	Yes	Professor	Active	Alagappa University
+Samir Kumar Jalal	Yes	Librarian	Active	Indian Institute of Technology
+Sibele Fausto	Yes	Librarian	Active	University of São Paulo
+Jens Terliesner	Yes	Professor	Active	Heinrich-Heine-University Düsseldorf
+Rafael Bailón Moreno	No	Professor	Active	University of Granada

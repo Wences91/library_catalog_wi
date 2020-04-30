@@ -230,8 +230,8 @@ Ricardo Arencibia Jorge	Arencibia, Ricardo Jorge	1	1	1	1	np-arencibia,%20ricardo
 Ricardo Arencibia Jorge	Arencibia, Jorge Ricardo	1	1	1	1	np-arencibia,%20jorge%20ricardo	Web	TRUE
 Dean Giustini	NA	NA	NA	NA	NA	NA	NA	NA
 Maite barrios	Barrios Cerrejón, M. Teresa	9	17	3	82	viaf-87749586	API	FALSE
-RR Braam	Braam, Robert (Robert René) 1958-	11	28	2	144	lccn-n91097137	Web	FALSE
-RR Braam	Braam, Robert (Robert René) 1958-	1	1	1	2	np-braam,%20robert$robert%20rene$1958	Web	FALSE
+RR Braam	Braam, Robert (Robert René) 1958-	11	28	2	144	lccn-n91097137	Web	TRUE
+RR Braam	Braam, Robert (Robert René) 1958-	1	1	1	2	np-braam,%20robert$robert%20rene$1958	Web	TRUE
 Emanuela Reale	Reale, Emanuela	34	67	2	171	lccn-n96010881	API	TRUE
 Emanuela Reale	Reale, Emmanuela	1	1	1	1	np-reale,%20emmanuela	Web	TRUE
 Xianwen Wang（王贤文）	NA	NA	NA	NA	NA	NA	NA	NA
@@ -453,8 +453,6 @@ Stacy Konkiel	Konkiel, Stacy	2	3	1	5	np-konkiel,%20stacy	API	TRUE
 Stacy Konkiel	Stacy Konkiel	1	1	1	1	np-stacy%20konkiel	Web	TRUE
 Stacy Konkiel	Konkiel, Stacey	1	1	1	1	np-konkiel,%20stacey	Web	TRUE
 Yaniris Rodríguez-Sánchez	Rodríguez Sánchez, Yaniris	4	12	1	123	np-rodriguez%20sanchez,%20yaniris	API	FALSE
-vaishali khaparde	Khaparde, Vaishali	1	1	1	2	np-khaparde,%20vaishali	API	TRUE
-vaishali khaparde	Khaparde, Vaishali S.	1	1	1	2	np-khaparde,%20vaishali%20s	Web	TRUE
 Rita Pinheiro-Machado	NA	NA	NA	NA	NA	NA	NA	NA
 Nadine Rons	NA	NA	NA	NA	NA	NA	NA	NA
 Samir Kumar Jalal	Jalal, Samir Kumar	1	1	1	1	np-jalal,%20samir%20kumar	API	FALSE
@@ -587,6 +585,7 @@ Ashraf Maleki	NA	NA	NA	NA	NA	NA	NA	NA
 Rouhallah Khademi	NA	NA	NA	NA	NA	NA	NA	NA
 Saeed Roshani	NA	NA	NA	NA	NA	NA	NA	NA
 Alberto Ramos-Alonso	NA	NA	NA	NA	NA	NA	NA	NA
+vaishali khaparde	NA	NA	NA	NA	NA	NA	NA	NA
 Vaishali Khaparde	Khaparde, Vaishali	1	1	1	2	np-khaparde,%20vaishali	API	TRUE
 Vaishali Khaparde	Khaparde, Vaishali S.	1	1	1	2	np-khaparde,%20vaishali%20s	Web	TRUE
 Jeyashree S	NA	NA	NA	NA	NA	NA	NA	NA
